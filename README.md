@@ -1,6 +1,9 @@
 ### Hi, I´m Yael :stuck_out_tongue_winking_eye:
 
-
+<p aling="left">
+  🎓 Ing. en Computación
+  📫 Correo: mark4437@gmail.com
+</p>
 <!--
 **YaelRubio11/YaelRubio11** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

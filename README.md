@@ -1,11 +1,11 @@
 ### Hi, I´m Yael :stuck_out_tongue_winking_eye:
 
 <p aling="left">
-  🎓 Ing. en Computación
-  📫 Correo: mark4437@gmail.com
+  🎓 Computer Engineer
+  📫 Email: mark4437@gmail.com
 
-
-  ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
+  🛠 &nbsp;Tech Stack
+![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
 ![Java](https://img.shields.io/badge/-Java-05122A?style=flat&logo=Java&logoColor=FFA518)&nbsp;
 ![C++](https://img.shields.io/badge/-C++-05122A?style=flat&logo=C%2B%2B&logoColor=00599C)&nbsp;
@@ -19,20 +19,6 @@
 
 ---- 
 </p>
-<!--
-**YaelRubio11/YaelRubio11** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
---> ###
-  🛠 &nbsp;Tech Stack
 
 

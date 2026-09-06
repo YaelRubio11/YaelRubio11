@@ -1,5 +1,5 @@
 ### Hi, I´m Yael :stuck_out_tongue_winking_eye:
-
+<img src= "https://clearbridgetech.com/it-networking-challenges-navigating-the-complexities-of-modern-connectivity/" width="100%">
 <p aling="left">
   🎓 Computer Engineer
   📫 Mail: mark4437@gmail.com

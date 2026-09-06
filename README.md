@@ -2,7 +2,7 @@
 
 <p aling="left">
   🎓 Computer Engineer
-  📫 Email: mark4437@gmail.com
+  📫 Mail: mark4437@gmail.com
 
 🛠 &nbsp;My Skills
 
